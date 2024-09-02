@@ -1,0 +1,18 @@
+current directory: /app/server/vendor/bundle/ruby/3.3.0/gems/racc-1.7.3/ext/racc/cparse
+/usr/local/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /app/server/vendor/bundle/ruby/3.3.0/gems/racc-1.7.3/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20240324-7-epjayo sitelibdir\=./.gem.20240324-7-epjayo clean
+
+current directory: /app/server/vendor/bundle/ruby/3.3.0/gems/racc-1.7.3/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20240324-7-epjayo sitelibdir\=./.gem.20240324-7-epjayo
+compiling cparse.c
+linking shared-object racc/cparse.so
+
+current directory: /app/server/vendor/bundle/ruby/3.3.0/gems/racc-1.7.3/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20240324-7-epjayo sitelibdir\=./.gem.20240324-7-epjayo install
+/usr/bin/install -c -m 0755 cparse.so ./.gem.20240324-7-epjayo/racc
+
+current directory: /app/server/vendor/bundle/ruby/3.3.0/gems/racc-1.7.3/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20240324-7-epjayo sitelibdir\=./.gem.20240324-7-epjayo clean

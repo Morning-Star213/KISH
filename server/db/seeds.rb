@@ -1,0 +1,10 @@
+require 'csv'
+
+load 'db/seeds/organization.rb'
+load 'db/seeds/brand.rb'
+load 'db/seeds/seller.rb'
+load 'db/seeds/user.rb'
+load 'db/seeds/condition.rb'
+load 'db/seeds/product.rb'
+load 'db/seeds/listing.rb'
+load 'db/seeds/order.rb'

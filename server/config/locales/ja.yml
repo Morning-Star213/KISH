@@ -1,0 +1,42 @@
+ja:
+  enums:
+    product_master:
+      sex:
+        men: "男性"
+        women: "女性"
+    user:
+      role:
+        general: "一般"
+        admin: "管理者"
+        kish: "kish管理者"
+    listing:
+      status:
+        ready: "出品準備"
+        pending: "出品保留"
+        sales: "出品"
+        waiting: "売却・発送待ち"
+        shippied: "発送済み"
+      repair_method:
+        cleaning: "洗浄"
+        repair: "補修"
+        cleaning_and_repair: "洗浄・補修"
+        no_action_required: "対応不要"
+        action_pending: "対応保留"
+        remake: "リメイク"
+        recycle: "リサイクル"
+        discard: "廃棄"
+    order:
+      status:
+        cart: "カート"
+        address: "住所"
+        delivery: "配送"
+        payment: "支払い"
+        confirm: "確認"
+        ordered: "注文完了"
+        canceled: "キャンセル"
+      payment_status:
+        unpaid: "未払い"
+        paid: "支払済み"
+      shipping_status:
+        not_shipped: "未発送"
+        shipped: "発送済み"

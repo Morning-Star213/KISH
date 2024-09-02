@@ -1,0 +1,13 @@
+{
+  "parser": "@typescript-eslint/parser",
+  "plugins": ["@typescript-eslint", "import", "unused-imports"],
+  "extends": ["eslint:recommended", "next/core-web-vitals"],
+  "rules": {
+    "no-undef": "off",
+    "react/display-name": "off",
+    "@next/next/no-img-element": "off",
+    "no-unused-vars": "off",
+    "@typescript-eslint/no-unused-vars": "error",
+    "unused-imports/no-unused-imports": "warn"
+  }
+}
